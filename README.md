@@ -1,5 +1,8 @@
 # Face Recognition App 👥🔍
 
+
+[View Live](https://face-recognition-app-i3x0.onrender.com/) ♂️
+
 Welcome to the Face Recognition App, an application that leverages the power of face recognition technology to provide a secure and user-friendly experience. This project includes user authentication features, face detection using the Clarifai API, and storage of user information in a PostgreSQL database.
 
 ## Features
